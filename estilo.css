@@ -1,0 +1,178 @@
+td
+{
+	height: 90px;
+	width: 90px;
+}
+table
+{
+	position: absolute;
+	margin-left: 192px;
+	margin-top: 92px;
+	border-collapse: collapse;
+	border-width: 5px;
+	border-color: black;
+}
+#movimientos
+{
+	float: right;
+	margin-top: 200px;
+	margin-right: 50px;
+	font-family: times New Roman;
+	font-size: 40px;
+}
+
+#titulo
+{
+	position: absolute;
+	margin-left: 50px;
+}
+#queso
+{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	margin-left: 600px;
+	margin-top: 200px;
+}
+#raton
+{
+	width: 60px;
+	height: 60px;
+	transform: rotate(270deg);
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 400px;
+}
+#img
+{
+	width: 60px;
+	height: 60px;
+}
+
+#go
+{
+	visibility: hidden;
+	z-index: 50;
+	position: absolute;
+	margin-left: 50px;
+	width: 700px;
+	height: 600px;
+}
+#gameover
+{
+	width: 700px;
+	height: 600px;
+}
+#start
+{
+	box-shadow: 0 0 30px #89FFFA;
+	margin-left: 150px;
+	position: absolute;
+	width: 400px;
+	overflow: hidden;
+	height: 150px;
+	background-color:#A9EEFC;
+	border-radius: 50px;
+	margin-top: -250px;
+
+}
+#startimg
+{
+	margin-top: -230px;
+	width: 400px;
+	height: 600px;
+}
+
+#u1
+{ 
+	border-bottom-style: hidden;
+	border-right-style: hidden;
+	border-left-style: visible;
+	border-left-width: 5px;
+}
+#u3
+{
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-width: 5px;
+}
+#u4
+{
+	border-bottom-width: 5px;
+	border-right-width: 5px;
+}
+#d1
+{
+	border-bottom-style: hidden;
+	border-left-width: 5px;
+	border-right-width: 5px;
+}
+#d2
+{
+	border-top-style: hidden;
+}
+#d3
+{
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-width: 5px;
+}
+#d4
+{
+	border-bottom-width: 5px;
+	border-right-style: hidden;
+}
+#t1
+{
+	border-width: 5px;
+	border-top-width: 0px;
+}
+#t2
+{
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-bottom-width: 5px;
+}
+#t3
+{
+	border-right-style: hidden;
+	border-bottom-width: 5px;
+}
+#t4
+{
+	border-right-width: 5px;
+}
+#cu1
+{
+	border-right-style: hidden;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-left-style: hidden;
+}
+#cu3
+{
+	border-right-style: hidden;
+	border-left-width: 5px;
+	border-bottom-width: 5px;
+}
+#cu4
+{
+	border-bottom-style: hidden;
+	border-top-style: hidden;
+	border-right-width: 5px;
+}
+#ci1
+{
+	border-right-style: hidden;
+	border-left-width: 5px;
+}
+#ci2
+{
+	border-right-style: hidden;
+	border-top-style: hidden;
+}
+#ci4
+{
+	border-left-style: hidden;
+	border-right-width: 5px;
+}
